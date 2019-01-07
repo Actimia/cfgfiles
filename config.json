@@ -1,0 +1,15 @@
+{
+  "theme": "custom",
+  "segments": [
+    "set_term_title",
+    "username",
+    "ssh",
+    "cwd",
+    "virtual_env",
+    "git",
+    "hg",
+    "jobs",
+	"newline",
+    "root"
+  ]
+}
